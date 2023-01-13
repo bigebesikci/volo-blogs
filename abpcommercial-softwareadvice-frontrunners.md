@@ -11,7 +11,7 @@
 <p>To be considered for inclusion on the Front Runner list, a software product must meet certain criteria. </p>
 <ul>The scores for each software product are divided in 2 main categories:
   <li> Usability(x-axis) is calculated according to a weighted average of functionality(50%) and ease of use(50%).</li>
-  </li> Customer Satisfaction(y-axis) is calculated according to a weighted average of value for money(25%), likelihood to recommend(25%), customer support(50%). </li>
+  <li> Customer Satisfaction(y-axis) is calculated according to a weighted average of value for money(25%), likelihood to recommend(25%), customer support(50%). </li>
   </ul>
 <img src="https://software-advice.imgix.net/managed/other_pages/fr-example.png" width="500">
 
