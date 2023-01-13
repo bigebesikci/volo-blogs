@@ -13,10 +13,9 @@
   <li> Usability(x-axis) is calculated according to a weighted average of functionality(50%) and ease of use(50%).</li>
   <li> Customer Satisfaction(y-axis) is calculated according to a weighted average of value for money(25%), likelihood to recommend(25%), customer support(50%). </li>
   </ul>
-<img src="https://software-advice.imgix.net/managed/other_pages/fr-example.png" width="500">
-
 <p>We are thrilled to being selected as one of the App Development Software Category's Front Runner and are proud of the high ratings we have received from users. If you are in the market for business software, we encourage you to check out the Front Runner list and consider giving ABP Commercial a try. We are confident that you will be satisfied with our product and the support we provide.</p>
-<p> In the given image above for the front runner selection, the actual graph for 2022 is as shown below.</p>
+<p> You can see the Software Advice App Development Category Front Runners in 2022 in the image below.</p>
 <img src="https://software-advice.imgix.net/managed/frontrunner/fr_grid_application_development.jpg?fit=max&w=650&fm=png&auto=format" width="500">
 
 <p>Thank you to Software Advice and all of our users for this recognition. We look forward to continuing to provide top-notch software and support to businesses everywhere.</p>
+<p> Please <a href="https://reviews.softwareadvice.com/new/218224"><b>leave ABP Commercial a review on Software Advice</a></b> to share your experiences. </p>
