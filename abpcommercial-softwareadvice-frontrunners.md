@@ -16,9 +16,10 @@
   <p> You can see the graph for Software Advice App Development Category Front Runners in 2022 and locate ABP Commercial in there! </p>
 <img src="https://software-advice.imgix.net/managed/frontrunner/fr_grid_application_development.jpg?fit=max&w=650&fm=png&auto=format" width="500">
 <p>We are thrilled to being selected as one of the App Development Software Category's Front Runner and are proud of the high ratings we have received from users.</p>
-  <p>If you are in the market for business software, we encourage you to check out the Front Runner list and consider giving ABP Commercial a try. We are confident that you will be satisfied with our product and the support we provide.</p>
+  <p>If you are in the market for business software, we encourage you to check out the Front Runner list and <a href="https://commercial.abp.io/">give ABP Commercial a try</a>. We are confident that you will be satisfied with our product and the support we provide.</p>
 <p>You could also <a href="https://reviews.softwareadvice.com/new/218224"><b>leave ABP Commercial a review</b></a> to help us understand your experience.</p>
 
 <p>Thank to all of our users for this recognition. We look forward to continuing to provide top-notch software and support to businesses everywhere.</p>
 
 
+<p> Please see the other recognition we got from GetApp as 2022 Application Development Category Leader.</p>
