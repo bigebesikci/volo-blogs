@@ -31,3 +31,4 @@
 <p>We will continue to strive for excellence and provide the best possible products and services to our users.</p>
 
 
+<p>Please see the other recognition we got from GetApp as 2022 Application Development Category Leader.</p>
