@@ -24,6 +24,7 @@
 <li> In total: <b>82 out of 100</b></li>
 </ul>
 
+<p>If you are in the market for business software, we encourage you to check out the Front Runner list and <a href="https://commercial.abp.io/">give ABP Commercial a try</a>. We are confident that you will be satisfied with our product and the support we provide.</p>
 <p>You could also <a href="https://reviews.getapp.com/new/2046822"><b>leave ABP Commercial a review</b></a> to help us understand your experience.</p>
 
 <p>We would like to thank all of our customers and users for their support and feedback, which have helped us achieve this recognition. </p>
