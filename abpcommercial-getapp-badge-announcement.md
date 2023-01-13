@@ -16,12 +16,12 @@
 
 
 <ul> Here are ABP Commercial's user rankings:
-<li> Ease of use: 16 out of 20</li>
-<li> Value for money: 16 out of 20</li>
-<li> Functionality: 17 out of 20</li>
-<li> Customer support: 16 out of 20</li>
-<li> Likelihood to recommend: 16 out of 20</li>
-<li> In total: 82 out of 100</li>
+<li> Ease of use: <b>16 out of 20</b></li>
+<li> Value for money: <b>16 out of 20</b></li>
+<li> Functionality: <b>17 out of 20</b></li>
+<li> Customer support: <b>16 out of 20</b></li>
+<li> Likelihood to recommend: <b>16 out of 20</b></li>
+<li> In total: <b>82 out of 100</b></li>
 </ul>
 
 <p>You could also <a href="https://reviews.getapp.com/new/2046822">leave ABP Commercial a review</a> to help us understand your experience.</p>
