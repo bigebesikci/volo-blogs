@@ -1,6 +1,6 @@
 <h1> ABP Commercial - 2022 Software Advice Front Runner </h1>
 
-<a href="https://www.softwareadvice.com/app-development/#frontrunners"> <img border="0" src="https://capterra.s3.amazonaws.com/assets/images/gdm-badges/SA_Badge_FrontRunners_2022_FullColor.png" width="300" /> </a>
+<a href="https://www.softwareadvice.com/app-development/#frontrunners"> <img border="0" src="https://capterra.s3.amazonaws.com/assets/images/gdm-badges/SA_Badge_FrontRunners_2022_FullColor.png" width="200" /> </a>
 
 <p>Attention all business software buyers! We are excited to announce that <a href="https://www.softwareadvice.com/app-development/abp-commercial-profile/">ABP Commercial on Software Advice</a> has been selected as a Front Runner on Application Development category.</p>
 
