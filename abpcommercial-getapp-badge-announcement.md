@@ -24,7 +24,7 @@
 <li> In total: <b>82 out of 100</b></li>
 </ul>
 
-<p>You could also <a href="https://reviews.getapp.com/new/2046822">leave ABP Commercial a review</a> to help us understand your experience.</p>
+<p>You could also <a href="https://reviews.getapp.com/new/2046822"><b>leave ABP Commercial a review</b></a> to help us understand your experience.</p>
 
 <p>We would like to thank all of our customers and users for their support and feedback, which have helped us achieve this recognition. </p>
 
