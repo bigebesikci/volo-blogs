@@ -2,15 +2,18 @@
 <center> <a href="https://www.getapp.com/development-tools-software/application-development/category-leaders/"> <img border="0" src="https://capterra.s3.amazonaws.com/assets/images/gdm-badges/GA_Badge_CategoryLeaders_2022_FullColor.png" width="200" /> </a> </center>
 <p>We are excited to announce that <a href="https://www.getapp.com/development-tools-software/a/abp-commercial/">ABP Commercial on GetApp</a> has been selected as one of the Application Development Category Leader in 2022!</p>
 
-<p>GetApp's Category Leaders program ranks software products based on ratings from users in five key areas: ease of use, value for money, functionality, customer support, and likelihood to recommend. </p>
 
 <p>The Category Leaders program is intended to help businesses find the best software products in various categories to meet their needs, by providing an objective and unbiased ranking of products based on user reviews and other data.</p>
 
+<p>GetApp's Category Leaders program ranks software products based on ratings from users in five key areas: ease of use, value for money, functionality, customer support, and likelihood to recommend. </p>
+
+<p> For Application Development Category, GetApp evaluated 368 products and ABP Commercial entered to the Category Leaders' list from the 12th order in the first 15 high-scorer products, a.k.a. Category Leaders. </p>
+
+<p>We are proud that ABP Commercial has been recognized as one of the top-ranked product in Application Development category, thanks to the high ratings it has received from users. </p>
+
 <p>By being selected as a Category Leader, ABP Commercial has demonstrated a high level of satisfaction among its users and a strong performance in the key areas that matter most to businesses.</p>
 
-<p>We are proud that ABP Commercial has been recognized as one of the top-ranked product in its category, thanks to the high ratings it has received from users. </p>
 
-<p> For this Category, GetApp evaluated 368 products and ABP Commercial entered to the Category Leaders' list from the 12th order in the first 15 high-scorer products, a.k.a. Category Leaders. </p>
 
 <ul> Here are ABP Commercial's user rankings:
 <li> Ease of use: 16</li>
