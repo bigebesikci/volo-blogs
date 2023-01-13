@@ -1,5 +1,5 @@
 <h1>ABP Commercial as GetApp's Application Development Category Leader</h1>
-<center> <a href="https://www.getapp.com/development-tools-software/application-development/category-leaders/"> <img border="0" src="https://capterra.s3.amazonaws.com/assets/images/gdm-badges/GA_Badge_CategoryLeaders_2022_FullColor.png" width="200" /> </a> </center>
+<align-center> <a href="https://www.getapp.com/development-tools-software/application-development/category-leaders/"> <img border="0" src="https://capterra.s3.amazonaws.com/assets/images/gdm-badges/GA_Badge_CategoryLeaders_2022_FullColor.png" width="200" /> </a> </center>
 <p>We are excited to announce that ABP Commercial has been selected as one of the <a href="https://www.getapp.com/development-tools-software/application-development/category-leaders/">Application Development Category’s GetApp Category Leader in 2022</a>!</p>
 
 <p>GetApp's Category Leaders program ranks software products based on ratings from users in five key areas: ease of use, value for money, functionality, customer support, and likelihood to recommend. </p>
