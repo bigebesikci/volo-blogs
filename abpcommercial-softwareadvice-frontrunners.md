@@ -15,7 +15,7 @@
   </ul>
 <img src="https://software-advice.imgix.net/managed/other_pages/fr-example.png" width="500">
 
-<p>We are thrilled to have been selected as a Front Runner and are proud of the high ratings we have received from users. If you are in the market for business software, we encourage you to check out the Front Runner list and consider giving ABP Commercial a try. We are confident that you will be satisfied with our product and the support we provide.</p>
+<p>We are thrilled to being selected as one of the App Development Software Category's Front Runner and are proud of the high ratings we have received from users. If you are in the market for business software, we encourage you to check out the Front Runner list and consider giving ABP Commercial a try. We are confident that you will be satisfied with our product and the support we provide.</p>
 <p> In the given image above for the front runner selection, the actual graph for 2022 is as shown below.</p>
 <img src="https://software-advice.imgix.net/managed/frontrunner/fr_grid_application_development.jpg?fit=max&w=650&fm=png&auto=format" width="500">
 
