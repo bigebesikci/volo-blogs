@@ -37,7 +37,7 @@
     </ul>
   
   <h2> GitHub Stars </h2>
-  <p> ABP Framework GitHub repository reached to <b>more than 9K stars</b>. We appreciate your interest and support for <a href="https://github.com/abpframework/abp" target="_blank" rel="nofollow">ABP Framework GitHub repository</a>. We are working hard to be worthy of your interest and reach out to more people to simplify and streamline their development processes.</p>
+  <p> ABP Framework GitHub repository reached <b>more than 9K stars</b>. We appreciate your interest and support for <a href="https://github.com/abpframework/abp" target="_blank" rel="nofollow">ABP Framework GitHub repository</a>. We are working hard to be worthy of your interest and reach out to more people to simplify and streamline their development processes.</p>
   
   <h2> Community Talks </h2>
 <p><a href="https://community.abp.io/events" target="_blank">ABP Community Talks</a> is our monthly event that brings together members of the ABP Framework community to discuss and exchange ideas. Prior to each event, we collect suggestions from our contributors, monitor trending topics in the industry, and review updates and news related to the ABP Platform to curate the topics for discussion. Once the topics are finalized, we announce them through our social media and community channels to ensure everyone is aware and can join in on the conversation.</p>
