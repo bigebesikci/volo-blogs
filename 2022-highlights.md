@@ -81,6 +81,11 @@ Designing Monolith First for Microservice Architecture event</a>, <a href="https
 <li> We received 39 new testimonials, all from satisfied customers which led us to the other headline, Gartner Badges.</li> 
   </ul>
   
+  
+  <h2> LeptonX Theme </h2>
+<p>The Lepton Theme is a module that offers a theme for abp.io-based applications, featuring an Admin Dashboard designed by the ABP Platform. We released a version we called LeptonX Theme which is an upgraded version of Lepton Theme. You can view a live preview of the <a href="https://leptontheme.com/" target="_blank"> LeptonX Theme</a>. While the LeptonX theme is currently exclusive to ABP Commercial users, ABP Framework users can still access the Lite version. You can see the documentation for ABP LeptonX Theme light from <a href="https://docs.abp.io/en/abp/7.0/Themes/Index" target="_blank"> here.</p>
+  
+  
   <h2> Gartner Badges </h2>
   <p> Gartner badges are given as an award to the listed softwares within their software review/suggestion platforms. To be able to get these awards, certain criterias have to be met such as ease of use, likelihood of recommend, functionality, etc. and they are calculated completely according to the users' real reviews. </p>
   <p> In 2022, ABP Commercial reached to such success thanks to its users' support on Gartner, it has been recognized with 2 badges in Application Development category. </p>
@@ -95,9 +100,3 @@ Designing Monolith First for Microservice Architecture event</a>, <a href="https
 <p> ABP Framework released 4 versions from 5.1 to 7.1 in 2022. You can check the release logs from <a href="https://github.com/abpframework/abp/releases" target="_blank" rel="nofollow"> ABP Framework Release Logs</a>. </p>
 <p> The most important milestone in these releases is that we upgraded ABP Framework to .NET 7.0 in <a href="https://blog.abp.io/abp/ABP.IO-Platform-7.0-RC-Has-Been-Published" target="_blank"> ABP v7.0</a>.</p>
 <p> Additionally, we switched to OpenIddict for the startup templates in <a href="https://blog.abp.io/abp/ABP.IO-Platform-6.0-RC-Has-Been-Published" target="_blank"> ABP v6.0</a>.</p>
-
-
-
-  
-  
-  <h2> </h2>
