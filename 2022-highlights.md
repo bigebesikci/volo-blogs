@@ -22,22 +22,55 @@
 <p> Thank you all for your interest and support towards Volosoft and ABP packages.</p>
 
 
-<h2> Events/Summits</h2>
-<p> We try to contribute to the developers community as much as we can since day 1. This year was no different. We sponsored 4 events this year. They were, <a href="https://kommunity.com/devnot/events/designing-monolith-first-for-microservice-architecture-e74fec40" target="_blank" rel="nofollow"> DevNot 
-Designing Monolith First for Microservice Architecture event</a>, <a href="https://www.dnfsummit.org/" target="_blank" rel="nofollow"> DNF Summit 2022</a>, <a href="https://summit.devnot.com/" target="_blank" rel="nofollow"> Developer Summit 2022</a>, and <a href="https://www.dotnetconf.net/" target="_blank" rel="nofollow"> .NET Conference 2022</a>.
+<h2> E-Books </h2>
+<p> We have reached to <b>3 e-books' publish</b> this year with our founder <a href="https://github.com/hikalkan" target="_blank" rel="nofollow">Halil İbrahim Kalkan</a>'s contributions. </p>
+<ul>
+  <li> <b>Mastering ABP Framework Book</b>: You can learn more details about it from <a href="https://abp.io/books/mastering-abp-framework" target="_blank">here</a> or <a href="https://www.amazon.com/gp/product/B097Z2DM8Q" target="_blank" rel="nofollow">purchase from Amazon</a> or <a href="https://www.packtpub.com/product/mastering-abp-framework/9781801079242" target="_blank" rel="nofollow"> purchase from Packt Publishing's website</a></li>
+  <li> <b>Implementing Domain Driven Design</b>: You can download it for free from <a href="https://abp.io/books/implementing-domain-driven-design" target="_blank"> here</a>. </li>
+  <li> <b>Building Microservice Solutions</b>: You can download it for free from <a href="https://abp.io/books/building-microservice-solutions" target="_blank">here</a> </li>
+  </ul>
 
+
+<h2> Tutorial Videos </h2>
+<p> In 2022, we tried to be as much active as we can. To give you more insight and let you understand ABP Framework with short videos according to your interests, we published 48 tutorial videos. </p>
+<ul>
+  <li> 6 videos have been published on How to Build a To Do App in Single Layer which can be found in <a href="https://www.youtube.com/playlist?list=PLsNclT2aHJcPqZxk7D4tU8LtTeCFcN_ci" target="_blank"> ABP To Do Application [Single Layer] Playlist</a>. </li>
+  <li> 8 videos have been published on How to Build a To Do App in Multi Layers which can be found in <a href="" target="_blank" rel="nofollow"> ABP To Do Application [Multi-Layers] Playlist</a>. </li>
+  <li> 1 video has been published on ABP Framework Essentials which can be found in <a href="https://www.youtube.com/playlist?list=PLsNclT2aHJcNupH2wz83y7htugpLoUZ_B" target="_blank" rel="nofollow"> ABP Framework Essentials Playlist</a>. </li>
+  <li> 13 videos have been published to introduce ABP Modules which can be found in <a href="https://www.youtube.com/playlist?list=PLsNclT2aHJcNQC8t7vighWWX6aDR5ZYbc" target="_blank" rel="nofollow"> ABP Modules Playlist</a>.</li>
+  <li> And many other videos can be found in <a href="https://www.youtube.com/c/@volosoft" target="_blank" rel="nofollow">Volosoft YouTube Channel</a>.</li>
+    </ul>
   
   <h2> GitHub Stars </h2>
   <p> ABP Framework GitHub repository reached to <b>more than 9K stars</b>. We appreciate your interest and support for <a href="https://github.com/abpframework/abp" target="_blank" rel="nofollow">ABP Framework GitHub repository</a>. We are working hard to be worthy of your interest and reach out to more people to simplify and streamline their development processes.</p>
   
-  <h2> Community Posts </h2>
+  
+  <h2> ABP Community Contributions </h2>
   <p> The ABP Community is a hub that offers resources such as articles, video tutorials, and updates on ABP's development progress and events for ABP Framework, .NET, and software development. Developers can also connect with others, help each other, and share their expertise in <a href="https://community.abp.io/">ABP Community</a>.</p>
+  <ul> You can check out the each source from the list below.
+  <li>ABP Community Events: You can reach them from <a href="https://community.abp.io/events" target="_blank"> here</a>.</li>
+  <li>ABP Community Posts: You can reach them from <a href="https://community.abp.io/posts" target="_blank"> here</a></li>
+  <li>ABP Community Videos: You can reach them from <a href="https://community.abp.io/videos" target="_blank"> here</a>. </li>
+  <li>ABP Community Stackoverflow: You can reach them from <a href="https://stackoverflow.com/questions/tagged/abp" target="_blank"> here</a>. </li>
+    </ul>
   <p> In 2022, community's contribution reached to a point where <b>more than 100 resources</b>. Thank you for all your effort! Please keep it going! It is becoming more and more rich resource thanks to your variety of contribution and help.</p>
   
   
+  <h2> ABP Community Discord Server</h2>
+  <p> To take community interaction to the next level, we created the official <a href="https://community.abp.io/discord" target="_blank"> ABP Discord server, providing a platform for the ABP Community to connect and communicate instantly through chatting.</p>
+  <p> We were so excited <a href="https://blog.abp.io/abp/Official-ABP-Discord-Server-is-Here" target="_blank">announcing the official ABP Discord Server</a>.  In the first week of announcing it, the server quickly attracted over 500 members. We're grateful for your interest and support, which confirms the need for a dedicated platform for community interaction.</p>
+
+
   <h2> ABP Framework GitHub Contributions</h2>
-  <p> In 2022, ABP Core Team worked hard to achieve milestones and give the best value with ABP Framework so users can benefit from its features.</p>
-  <p> However, with <a href="https://github.com/abpframework/abp/graphs/contributors" target="_blank" rel="nofollow"> ABP Community members' contributions</a>, 3157 commits were pushed from <b> 48 different contributors</b>.</p>
+  <p> In 2022, ABP Core Team worked hard to achieve milestones and give the best value with ABP Framework so users can benefit from its features. Additional to our team's work, ABP Framework is perfected in 2022 with <a href="https://github.com/abpframework/abp/graphs/contributors" target="_blank" rel="nofollow"> ABP Community members' contributions</a>, <b>3157 commits</b> pushed from <b> 48 different contributors</b>.</p>
+  <p> We appreciate your hard work and effort you put into making ABP Framework better and improved.</p>
+ 
+  
+  <h2> Events/Summits</h2>
+<p> We try to contribute to the developers community as much as we can since day 1. This year was no different. We tried to give value through sponsorships for developer communities. Especially with us leaving the pandemic behind every day, we try to keep up with the in-person events as well as online events. We plan to do more in next year. So, stay tuned!</p>
+<p> This year, we sponsored to 4 events. They were, <a href="https://kommunity.com/devnot/events/designing-monolith-first-for-microservice-architecture-e74fec40" target="_blank" rel="nofollow"> DevNot 
+Designing Monolith First for Microservice Architecture event</a>, <a href="https://www.dnfsummit.org/" target="_blank" rel="nofollow"> DNF Summit 2022</a>, <a href="https://summit.devnot.com/" target="_blank" rel="nofollow"> Developer Summit 2022</a>, and <a href="https://www.dotnetconf.net/" target="_blank" rel="nofollow"> .NET Conference 2022</a>.
+  
   
   <h2> ABP Commercial</h2>
 <p> It has been a successful year for ABP Commercial as well as ABP Framework. We have already reached to more than 100 countries over the years of ABP Commercial's release. This year, we continued to be streamline businesses' development processes with ABP Commercial. </p>
@@ -57,19 +90,14 @@ Designing Monolith First for Microservice Architecture event</a>, <a href="https
 </ul>
 <p> Thank you all for all these recognition you deemed us worthy of. </p>
 
+
 <h2> ABP Releases </h2>
 <p> ABP Framework released 4 versions from 5.1 to 7.1 in 2022. You can check the release logs from <a href="https://github.com/abpframework/abp/releases" target="_blank" rel="nofollow"> ABP Framework Release Logs</a>. </p>
 <p> The most important milestone in these releases is that we upgraded ABP Framework to .NET 7.0 in <a href="https://blog.abp.io/abp/ABP.IO-Platform-7.0-RC-Has-Been-Published" target="_blank"> ABP v7.0</a>.</p>
 <p> Additionally, we switched to OpenIddict for the startup templates in <a href="https://blog.abp.io/abp/ABP.IO-Platform-6.0-RC-Has-Been-Published" target="_blank"> ABP v6.0</a>.</p>
 
 
-<h2> E-Books </h2>
-<p> We have reached to <b>3 e-books' publish</b> this year with our founder <a href="https://github.com/hikalkan" target="_blank" rel="nofollow">Halil İbrahim Kalkan</a>'s contributions. </p>
-<ul>
-  <li> <b>Mastering ABP Framework Book</b>: You can learn more details about it from <a href="https://abp.io/books/mastering-abp-framework" target="_blank">here</a> or <a href="https://www.amazon.com/gp/product/B097Z2DM8Q" target="_blank" rel="nofollow">purchase from Amazon</a> or <a href="https://www.packtpub.com/product/mastering-abp-framework/9781801079242" target="_blank" rel="nofollow"> purchase from Packt Publishing's website</a></li>
-  <li> <b>Implementing Domain Driven Design</b>: You can download it for free from <a href="https://abp.io/books/implementing-domain-driven-design" target="_blank"> here</a>. </li>
-  <li> <b>Building Microservice Solutions</b>: You can download it for free from <a href="https://abp.io/books/building-microservice-solutions" target="_blank">here</a> </li>
-  </ul>
+
   
   
   <h2> </h2>
