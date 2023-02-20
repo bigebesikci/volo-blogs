@@ -10,11 +10,6 @@
 <img src="https://i.ibb.co/qjgK7Dj/2022-Highlights.png">
 
 
-<h2> Community Talks </h2>
-<p><a href="https://community.abp.io/events" target="_blank">ABP Community Talks</a> is our monthly event that brings together members of the ABP Framework community to discuss and exchange ideas. Prior to each event, we collect suggestions from our contributors, monitor trending topics in the industry, and review updates and news related to the ABP Platform to curate the topics for discussion. Once the topics are finalized, we announce them through our social media and community channels to ensure everyone is aware and can join in on the conversation.</p>
-<p> We did 10 <a href="https://www.youtube.com/playlist?list=PLsNclT2aHJcOsPustEkzG6DywiO8eh0lB" target="_blank" rel="nofollow">ABP Community Talks Episodes</a> of  and 1 <a href="https://www.youtube.com/watch?v=RFArBh60RSA" target="_blank" rel="nofollow"> ABP Suite webinar</a>. You can take a look at them and check out our videos we have on <a href="https://www.youtube.com/c/@volosoft" target="_blank" rel="nofollow">Volosoft YouTube Channel</a>. </p>
-
-
 <h2> NuGet Downloads </h2>
 <p> NuGet is a package manager designed specifically for the .NET ecosystem. It simplifies the process of creating and consuming packages, thanks to the NuGet client tools. By using these tools, developers can easily manage their project dependencies and improve their workflow.</p>
 <p> In 2022, <a href="https://www.nuget.org/packages/Volo.Abp.Core/7.0.1" target="_blank" rel="nofollow">ABP Core NuGet package</a> reached to more than <b>10 millions</b> of download! </p>
@@ -32,7 +27,7 @@
 
 
 <h2> Tutorial Videos </h2>
-<p> In 2022, we tried to be as much active as we can. To give you more insight and let you understand ABP Framework with short videos according to your interests, we published 48 tutorial videos. Though the videos were created by overall team members of ABP Framework, someone deserves a specail mention here. Shot out to our ABP Core Team member < a href="https://github.com/braim23" target="_blank" rel="nofollow">Hamza Albreem</a> for his hard work.</p>
+<p> In 2022, we tried to be as much active as we can. To give you more insight and let you understand ABP Framework with short videos according to your interests, we published 48 tutorial videos. Though the videos were created by overall team members of ABP Framework, someone deserves a specail mention here. Shot out to our ABP Core Team member <a href="https://github.com/braim23" target="_blank" rel="nofollow">Hamza Albreem</a> for his hard work.</p>
 <ul>
   <li> 6 videos have been published on How to Build a To Do App in Single Layer which can be found in <a href="https://www.youtube.com/playlist?list=PLsNclT2aHJcPqZxk7D4tU8LtTeCFcN_ci" target="_blank"> ABP To Do Application [Single Layer] Playlist</a>. </li>
   <li> 8 videos have been published on How to Build a To Do App in Multi Layers which can be found in <a href="" target="_blank" rel="nofollow"> ABP To Do Application [Multi-Layers] Playlist</a>. </li>
@@ -44,6 +39,9 @@
   <h2> GitHub Stars </h2>
   <p> ABP Framework GitHub repository reached to <b>more than 9K stars</b>. We appreciate your interest and support for <a href="https://github.com/abpframework/abp" target="_blank" rel="nofollow">ABP Framework GitHub repository</a>. We are working hard to be worthy of your interest and reach out to more people to simplify and streamline their development processes.</p>
   
+  <h2> Community Talks </h2>
+<p><a href="https://community.abp.io/events" target="_blank">ABP Community Talks</a> is our monthly event that brings together members of the ABP Framework community to discuss and exchange ideas. Prior to each event, we collect suggestions from our contributors, monitor trending topics in the industry, and review updates and news related to the ABP Platform to curate the topics for discussion. Once the topics are finalized, we announce them through our social media and community channels to ensure everyone is aware and can join in on the conversation.</p>
+<p> We did 10 <a href="https://www.youtube.com/playlist?list=PLsNclT2aHJcOsPustEkzG6DywiO8eh0lB" target="_blank" rel="nofollow">ABP Community Talks Episodes</a> of  and 1 <a href="https://www.youtube.com/watch?v=RFArBh60RSA" target="_blank" rel="nofollow"> ABP Suite webinar</a>. You can take a look at them and check out our videos we have on <a href="https://www.youtube.com/c/@volosoft" target="_blank" rel="nofollow">Volosoft YouTube Channel</a>. </p>
   
   <h2> ABP Community Contributions </h2>
   <p> The ABP Community is a hub that offers resources such as articles, video tutorials, and updates on ABP's development progress and events for ABP Framework, .NET, and software development. Developers can also connect with others, help each other, and share their expertise in <a href="https://community.abp.io/">ABP Community</a>.</p>
@@ -72,6 +70,12 @@
 Designing Monolith First for Microservice Architecture event</a>, <a href="https://www.dnfsummit.org/" target="_blank" rel="nofollow"> DNF Summit 2022</a>, <a href="https://summit.devnot.com/" target="_blank" rel="nofollow"> Developer Summit 2022</a>, and <a href="https://www.dotnetconf.net/" target="_blank" rel="nofollow"> .NET Conference 2022</a>.
   
   
+  <h2> ABP Releases </h2>
+<p> ABP Framework released 4 versions from 5.1 to 7.1 in 2022. You can check the release logs from <a href="https://github.com/abpframework/abp/releases" target="_blank" rel="nofollow"> ABP Framework Release Logs</a>. </p>
+<p> The most important milestone in these releases is that we upgraded ABP Framework to .NET 7.0 in <a href="https://blog.abp.io/abp/ABP.IO-Platform-7.0-RC-Has-Been-Published" target="_blank"> ABP v7.0</a>.</p>
+<p> Additionally, we switched to OpenIddict for the startup templates in <a href="https://blog.abp.io/abp/ABP.IO-Platform-6.0-RC-Has-Been-Published" target="_blank"> ABP v6.0</a>.</p>
+
+  
   <h2> ABP Commercial</h2>
 <p> It has been a successful year for ABP Commercial as well as ABP Framework. We have already reached to more than 100 countries over the years of ABP Commercial's release. This year, we continued to be streamline businesses' development processes with ABP Commercial. </p>
 <ul>
@@ -94,9 +98,3 @@ Designing Monolith First for Microservice Architecture event</a>, <a href="https
   <li> <b>GetApp's Category Leader</b>: <a href="https://www.getapp.com/development-tools-software/a/abp-commercial/" target="_blank" rel="nofollow"> ABP Commercial's GetApp profile</a> was given 2022 Category Leader badge among 368 other softwares in its category. <a href="https://blog.abp.io/abp/abpcommercial-2022-category-leader-in-app-development-category"> You can learn more about it from here</a>. </li>
 </ul>
 <p> Thank you all for all these recognition you deemed us worthy of. </p>
-
-
-<h2> ABP Releases </h2>
-<p> ABP Framework released 4 versions from 5.1 to 7.1 in 2022. You can check the release logs from <a href="https://github.com/abpframework/abp/releases" target="_blank" rel="nofollow"> ABP Framework Release Logs</a>. </p>
-<p> The most important milestone in these releases is that we upgraded ABP Framework to .NET 7.0 in <a href="https://blog.abp.io/abp/ABP.IO-Platform-7.0-RC-Has-Been-Published" target="_blank"> ABP v7.0</a>.</p>
-<p> Additionally, we switched to OpenIddict for the startup templates in <a href="https://blog.abp.io/abp/ABP.IO-Platform-6.0-RC-Has-Been-Published" target="_blank"> ABP v6.0</a>.</p>
