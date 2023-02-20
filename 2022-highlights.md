@@ -51,3 +51,14 @@ Designing Monolith First for Microservice Architecture event</a>, <a href="https
 
 <h2> ABP Releases </h2>
 <p> ABP Framework released 4 versions from 5.1 to 7.1 in 2022. You can check the release logs from <a href="https://github.com/abpframework/abp/releases" target="_blank" rel="nofollow"> ABP Framework Release Logs</a>. </p>
+<p> The most important milestone in these releases is that we upgraded ABP Framework to .NET 7.0 in <a href="https://blog.abp.io/abp/ABP.IO-Platform-7.0-RC-Has-Been-Published" target="_blank"> ABP v7.0</a>.</p>
+<p> Additionally, we switched to OpenIddict for the startup templates in <a href="https://blog.abp.io/abp/ABP.IO-Platform-6.0-RC-Has-Been-Published" target="_blank"> ABP v6.0</a>.</p>
+
+
+<h2> ABP Commercial Customers</h2>
+<p> It has been a successful year for ABP Commercial as well as ABP Framework. We have already reached to more than 100 countries over the years of ABP Commercial's release. This year, we continued to be streamline businesses' development processes with ABP Commercial. We have served to different sizes of businesses from <b> more than 50 countries</b> and <b> more than 40 industries </b>.</a></p>
+<p> Additionally, we did <b>286 hours of training</b> to simplify users' learning curve of ABP Framework. </p>
+<p> We have a premium support in which ABP Commercial users can ask their questions directly to ABP Core Team members via <a href="https://support.abp.io/" target="_blank"> ABP Commercial Support Center</a> in addition to community support we provide for ABP Framework users/developers. </p>
+
+
+<h2>  </h2>
