@@ -63,7 +63,13 @@ Designing Monolith First for Microservice Architecture event</a>, <a href="https
 <p> Additionally, we switched to OpenIddict for the startup templates in <a href="https://blog.abp.io/abp/ABP.IO-Platform-6.0-RC-Has-Been-Published" target="_blank"> ABP v6.0</a>.</p>
 
 
-
-
-
-<h2>  </h2>
+<h2> E-Books </h2>
+<p> We have reached to <b>3 e-books' publish</b> this year with our founder <a href="https://github.com/hikalkan" target="_blank" rel="nofollow">Halil İbrahim Kalkan</a>'s contributions. </p>
+<ul>
+  <li> <b>Mastering ABP Framework Book</b>: You can learn more details about it from <a href="https://abp.io/books/mastering-abp-framework" target="_blank">here</a> or <a href="https://www.amazon.com/gp/product/B097Z2DM8Q" target="_blank" rel="nofollow">purchase from Amazon</a> or <a href="https://www.packtpub.com/product/mastering-abp-framework/9781801079242" target="_blank" rel="nofollow"> purchase from Packt Publishing's website</a></li>
+  <li> <b>Implementing Domain Driven Design</b>: You can download it for free from <a href="https://abp.io/books/implementing-domain-driven-design" target="_blank"> here</a>. </li>
+  <li> <b>Building Microservice Solutions</b>: You can download it for free from <a href="https://abp.io/books/building-microservice-solutions" target="_blank">here</a> </li>
+  </ul>
+  
+  
+  <h2> </h2>
