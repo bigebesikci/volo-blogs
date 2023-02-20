@@ -45,13 +45,13 @@
   
   <h2> ABP Community Contributions </h2>
   <p> The ABP Community is a hub that offers resources such as articles, video tutorials, and updates on ABP's development progress and events for ABP Framework, .NET, and software development. Developers can also connect with others, help each other, and share their expertise in <a href="https://community.abp.io/">ABP Community</a>.</p>
-  <ul> You can check out the each source from the list below.
+  <ul> You can check out each source from the list below.
   <li>ABP Community Events: You can reach them from <a href="https://community.abp.io/events" target="_blank"> here</a>.</li>
   <li>ABP Community Posts: You can reach them from <a href="https://community.abp.io/posts" target="_blank"> here</a></li>
   <li>ABP Community Videos: You can reach them from <a href="https://community.abp.io/videos" target="_blank"> here</a>. </li>
   <li>ABP Community Stackoverflow: You can reach them from <a href="https://stackoverflow.com/questions/tagged/abp" target="_blank"> here</a>. </li>
     </ul>
-  <p> In 2022, community's contribution reached to a point where <b>more than 100 resources</b>. Thank you for all your effort! Please keep it going! It is becoming more and more rich resource thanks to your variety of contribution and help.</p>
+  <p> In 2022, the community's contribution reached a point where <b>more than 100 resources</b>. Thank you for all your effort! Please keep it going! It is becoming a more and more rich resource thanks to your variety of contributions and help.</p>
   
   
   <h2> ABP Community Discord Server</h2>
