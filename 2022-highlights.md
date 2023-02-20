@@ -12,8 +12,8 @@
 
 <h2> NuGet Downloads </h2>
 <p> NuGet is a package manager designed specifically for the .NET ecosystem. It simplifies the process of creating and consuming packages, thanks to the NuGet client tools. By using these tools, developers can easily manage their project dependencies and improve their workflow.</p>
-<p> In 2022, <a href="https://www.nuget.org/packages/Volo.Abp.Core/7.0.1" target="_blank" rel="nofollow">ABP Core NuGet package</a> reached to more than <b>10 millions</b> of download! </p>
-<p> On the other hand, overall <a href="https://www.nuget.org/profiles/volosoft" target="_blank" rel="nofollow">Volosoft NuGet Packages</a> reached to <b> more than half a billion</b> download!</p>
+<p> In 2022, <a href="https://www.nuget.org/packages/Volo.Abp.Core/7.0.1" target="_blank" rel="nofollow">ABP Core NuGet package</a> reached more than <b>10 million</b> of downloads! </p>
+<p> On the other hand, overall <a href="https://www.nuget.org/profiles/volosoft" target="_blank" rel="nofollow">Volosoft NuGet Packages</a> reached <b> more than half a billion</b> downloads!</p>
 <p> Thank you all for your interest and support towards Volosoft and ABP packages.</p>
 
 
