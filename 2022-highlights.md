@@ -39,6 +39,14 @@ Designing Monolith First for Microservice Architecture event</a>, <a href="https
   <p> In 2022, ABP Core Team worked hard to achieve milestones and give the best value with ABP Framework so users can benefit from its features.</p>
   <p> However, with <a href="https://github.com/abpframework/abp/graphs/contributors" target="_blank" rel="nofollow"> ABP Community members' contributions</a>, 3157 commits were pushed from <b> 48 different contributors</b>.</p>
   
+  <h2> ABP Commercial</h2>
+<p> It has been a successful year for ABP Commercial as well as ABP Framework. We have already reached to more than 100 countries over the years of ABP Commercial's release. This year, we continued to be streamline businesses' development processes with ABP Commercial. </p>
+<ul>
+  <li> We have served to different sizes of businesses from <b> more than 50 countries</b> and <b> more than 40 industries </b>.</a></li>
+<li> We performed <b>286 hours of training</b> to simplify users' learning curve of ABP Framework. </li>
+<li> 1771 support tickets resolved in the premium support forum in which ABP Commercial users can ask their questions directly to ABP Core Team members via <a href="https://support.abp.io/" target="_blank"> ABP Commercial Support Center</a> in addition to community support we provide for ABP Framework users/developers. </li>
+<li> We received 39 new testimonials, all from satisfied customers which led us to the other headline, Gartner Badges.</li> 
+  </ul>
   
   <h2> Gartner Badges </h2>
   <p> Gartner badges are given as an award to the listed softwares within their software review/suggestion platforms. To be able to get these awards, certain criterias have to be met such as ease of use, likelihood of recommend, functionality, etc. and they are calculated completely according to the users' real reviews. </p>
@@ -55,10 +63,7 @@ Designing Monolith First for Microservice Architecture event</a>, <a href="https
 <p> Additionally, we switched to OpenIddict for the startup templates in <a href="https://blog.abp.io/abp/ABP.IO-Platform-6.0-RC-Has-Been-Published" target="_blank"> ABP v6.0</a>.</p>
 
 
-<h2> ABP Commercial Customers</h2>
-<p> It has been a successful year for ABP Commercial as well as ABP Framework. We have already reached to more than 100 countries over the years of ABP Commercial's release. This year, we continued to be streamline businesses' development processes with ABP Commercial. We have served to different sizes of businesses from <b> more than 50 countries</b> and <b> more than 40 industries </b>.</a></p>
-<p> Additionally, we did <b>286 hours of training</b> to simplify users' learning curve of ABP Framework. </p>
-<p> We have a premium support in which ABP Commercial users can ask their questions directly to ABP Core Team members via <a href="https://support.abp.io/" target="_blank"> ABP Commercial Support Center</a> in addition to community support we provide for ABP Framework users/developers. </p>
+
 
 
 <h2>  </h2>
