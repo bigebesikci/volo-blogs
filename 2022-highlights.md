@@ -27,13 +27,13 @@
 
 
 <h2> Tutorial Videos </h2>
-<p> In 2022, we tried to be as much active as we can. To give you more insight and let you understand ABP Framework with short videos according to your interests, we published 48 tutorial videos. Though the videos were created by overall team members of ABP Framework, someone deserves a specail mention here. Shot out to our ABP Core Team member <a href="https://github.com/braim23" target="_blank" rel="nofollow">Hamza Albreem</a> for his hard work.</p>
+<p> In 2022, we tried to be as much active as we could. To give you more insight and let you understand ABP Framework with short videos according to your interests, we published 48 tutorial videos. Though the videos were created by overall team members of ABP Framework, someone deserves a special mention here. Shout out to our ABP Core Team member <a href="https://github.com/braim23" target="_blank" rel="nofollow">Hamza Albreem</a> for his hard work.</p>
 <ul>
-  <li> 6 videos have been published on How to Build a To Do App in Single Layer which can be found in <a href="https://www.youtube.com/playlist?list=PLsNclT2aHJcPqZxk7D4tU8LtTeCFcN_ci" target="_blank"> ABP To Do Application [Single Layer] Playlist</a>. </li>
-  <li> 8 videos have been published on How to Build a To Do App in Multi Layers which can be found in <a href="" target="_blank" rel="nofollow"> ABP To Do Application [Multi-Layers] Playlist</a>. </li>
+  <li> 6 videos have been published on How to Build a To Do App in a Single Layer which can be found in <a href="https://www.youtube.com/playlist?list=PLsNclT2aHJcPqZxk7D4tU8LtTeCFcN_ci" target="_blank"> ABP To-Do Application [Single Layer] Playlist</a>. </li>
+  <li> 8 videos have been published on How to Build a To-Do App in Multi Layers which can be found in <a href="" target="_blank" rel="nofollow"> ABP To Do Application [Multi-Layers] Playlist</a>. </li>
   <li> 1 video has been published on ABP Framework Essentials which can be found in <a href="https://www.youtube.com/playlist?list=PLsNclT2aHJcNupH2wz83y7htugpLoUZ_B" target="_blank" rel="nofollow"> ABP Framework Essentials Playlist</a>. </li>
   <li> 13 videos have been published to introduce ABP Modules which can be found in <a href="https://www.youtube.com/playlist?list=PLsNclT2aHJcNQC8t7vighWWX6aDR5ZYbc" target="_blank" rel="nofollow"> ABP Modules Playlist</a>.</li>
-  <li> And many other videos can be found in <a href="https://www.youtube.com/c/@volosoft" target="_blank" rel="nofollow">Volosoft YouTube Channel</a>.</li>
+  <li> And many other videos can be found on <a href="https://www.youtube.com/c/@volosoft" target="_blank" rel="nofollow">Volosoft YouTube Channel</a>.</li>
     </ul>
   
   <h2> GitHub Stars </h2>
