@@ -58,6 +58,7 @@
   <h2> ABP Community Discord Server</h2>
   <p> To take community interaction to the next level, we created the official <a href="https://community.abp.io/discord" target="_blank"> ABP Discord server, providing a platform for the ABP Community to connect and communicate instantly through chatting.</p>
   <p> We were so excited <a href="https://blog.abp.io/abp/Official-ABP-Discord-Server-is-Here" target="_blank">announcing the official ABP Discord Server</a>.  In the first week of announcing it, the server quickly attracted over 500 members. We're grateful for your interest and support, which confirms the need for a dedicated platform for community interaction.</p>
+> <a href="https://discord.gg/wbcQAsUrs9" target="_blank" rel="nofollow">Join ABP Discord Server Now</a>
 
 
   <h2> ABP Framework GitHub Contributions</h2>
