@@ -11,6 +11,8 @@ Application Development: https://www.getapp.com/development-tools-software/appli
 
 # Software Advice Front Runners
 
+Software Advice's FrontRunners methodology, updated in May 2020, evaluates software products using user reviews to score them on Usability and Customer Satisfaction. These scores are based on data from user reviews, public sources, and vendor information. To qualify, products must have at least 20 unique reviews within 24 months, demonstrating a broad appeal and functionality, and cater to North American users. The Usability score combines user ratings on functionality and ease-of-use, each accounting for half of the score. Customer Satisfaction is assessed through value for money, likelihood to recommend, and customer support ratings, with the latter having a higher weight. All ratings are converted to a standard 5-point scale, normalized for recency and volume, and then scaled up to 100. Products must meet a minimum score threshold on both axes, with a cap on the number of FrontRunners to ensure only the top 10 to 25 products per category are included, and no product scoring below 60 in either dimension is featured. The final FrontRunners graphic positions products based on their scores in these two key dimensions.
+
 App Building: https://www.softwareadvice.com/app-building/#frontrunners
 https://software-advice.imgix.net/managed/frontrunner/fr_grid_app_building.png
 App Development Software: https://www.softwareadvice.com/app-development/#frontrunners
