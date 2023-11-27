@@ -6,7 +6,7 @@ GetApp's Category Leaders methodology, effective from April 2020, ranks top Nort
 
 ** App Development: 429 products
 
-** App Building: 197 products
+** App Building: 199 products
 
 
 # Software Advice Front Runners
