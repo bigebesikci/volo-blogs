@@ -4,7 +4,7 @@ GetApp's Category Leaders methodology, effective from April 2020, ranks top Nort
 * App Building: https://www.getapp.com/development-tools-software/application-builder/category-leaders/
 * Application Development: https://www.getapp.com/development-tools-software/application-development/category-leaders/
 
-** App Development: 429 products
+** App Development: 431 products
 
 ** App Building: 199 products
 
