@@ -1,14 +1,17 @@
 
-2023 was the year for ABP.IO to strive with the community. Before everything, we appreciate all your interest and genuinely thankful to you for being with us this year.
+2023 was the year for ABP.IO to strive with the community. First of all, we'd like to express our appreciation for all your interest and say we are genuinely thankful to you for being with us this year.
+As an important part of the community, ABP.IO Core Team worked hard to give the ABP Community the best possible service and it was delivered and appreciated by the user community which got us to receive these awards.
 On top of last years' [Software Advice's Front Runner of Application Development in 2022](https://blog.abp.io/abp/abpcommercial-2022-front-runner-in-app-development-category) and [GetApp's Application Development Category Leader in 2022](https://blog.abp.io/abp/abpcommercial-2022-category-leader-in-app-development-category), we won **5 awards** this year from Gartner!
 
-For those of you don't know what Gartner is, it is a research and consultant company for IT industry, and one of the biggest companies in their area. You might have heard Magic Quadrant, Capterra, GetApp, etc. Those are all belong to Gartner.
+For those of you don't know what [Gartner](https://www.gartner.com/en) is, it is a research and consultant company for IT industry, one of the biggest companies in their area. You might have heard Magic Quadrant, Capterra, GetApp, etc. Those are all Gartner's works.
 
-In 2023, according to their benchmarking in Capterra, GetApp and Software Advice, ABP Commercial have won 5 awards. You can find the whole list divided by the titles below.
+In 2023, according to their benchmarking criterias on Capterra, GetApp and Software Advice; ABP Commercial won 5 awards. You can find the whole list divided by the titles below.
+These awards are given to those product that are most likely to help businesses the best products for their enhancement needs according to users' rankings in different areas like customer satisfaction, ease of use, functionality, etc. That's why we are thankful for our team members' hard work and ABP Community's support.
 
 # GetApp Category Leader
 
-GetApp's Category Leader ranks top North American software products based on end-user ratings in five key areas: ease of use, value for money, functionality, customer support, and likelihood to recommend. The evaluation involves a comprehensive analysis of potentially hundreds of products in a category, with only those scoring highest in these areas being named Category Leaders. These scores are derived from user reviews, public data, and vendor information, normalized for recency and volume, and then scaled to a maximum of 20 points per dimension, culminating in a total maximum score of 100. Inclusion criteria require products to have at least 20 unique reviews within 24 months and demonstrate essential functionality and relevance to a broad range of industries, ensuring both established and emerging vendors are considered. The final ranking is represented visually through radar charts, comparing each product's performance against the category average, with ties in scores resolved alphabetically.
+GetApp's Category Leader ranks top software products based on end-user ratings in five key areas(ease of use, value for money, functionality, customer support, and likelihood to recommend). The scores are derived from user reviews, public data, and vendor information, normalized for recency and volume, and then scaled to a maximum of 20 points per dimension, culminating in a total maximum score of 100. 
+
 * App Building: https://www.getapp.com/development-tools-software/application-builder/category-leaders/
 * Application Development: https://www.getapp.com/development-tools-software/application-development/category-leaders/
 
