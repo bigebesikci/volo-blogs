@@ -1,23 +1,46 @@
 
 2023 was the year for ABP.IO to strive with the community. First of all, we'd like to express our appreciation for all your interest and say we are genuinely thankful to you for being with us this year.
-As an important part of the community, ABP.IO Core Team worked hard to give the ABP Community the best possible service and it was delivered and appreciated by the user community which got us to receive these awards.
+As an important part of the community, ABP.IO Core Team worked hard to give the ABP Community the best possible service and it was delivered and appreciated by the users which got us to receive these awards.
 On top of last years' [Software Advice's Front Runner of Application Development in 2022](https://blog.abp.io/abp/abpcommercial-2022-front-runner-in-app-development-category) and [GetApp's Application Development Category Leader in 2022](https://blog.abp.io/abp/abpcommercial-2022-category-leader-in-app-development-category), we won **5 awards** this year from Gartner!
 
 For those of you don't know what [Gartner](https://www.gartner.com/en) is, it is a research and consultant company for IT industry, one of the biggest companies in their area. You might have heard Magic Quadrant, Capterra, GetApp, etc. Those are all Gartner's works.
 
-In 2023, according to their benchmarking criterias on Capterra, GetApp and Software Advice; ABP Commercial won 5 awards. You can find the whole list divided by the titles below.
-These awards are given to those product that are most likely to help businesses the best products for their enhancement needs according to users' rankings in different areas like customer satisfaction, ease of use, functionality, etc. That's why we are thankful for our team members' hard work and ABP Community's support.
+In 2023, according to their benchmarking criterias on Capterra, GetApp and Software Advice; ABP Commercial won 5 awards in app development category. This time, it's both Application Development and App Building categories! You can find the whole list divided by the titles below.
+These awards are given to those product that are most likely to help businesses the best products for their enhancement needs according to users' objective rankings in different areas like customer satisfaction, ease of use, functionality, etc. That's why we are thankful for our team members' hard work and ABP Community's support!
+
+To show our appreciation, we generated a set of links that rewards your review for ABP Commercial product in your local Amazon Store!
+* [Leave a review for ABP Commercial & **get $10 gift card**](https://reviews.capterra.com/products/new/8b6f9777-574b-42c6-9902-c045b585ab7c/07a1ac5a-4658-4552-a87d-5f4e1089fee9?lang=en)
+* [Leave a review for ABP Commercial & **get £10 gift card**](https://reviews.capterra.com/products/new/8b6f9777-574b-42c6-9902-c045b585ab7c/30b5d7f2-d0c5-4b38-b968-2dc5601aa196?lang=en)
+* [Leave a review for ABP Commercial & **get €10 gift card**](https://reviews.capterra.com/products/new/8b6f9777-574b-42c6-9902-c045b585ab7c/8fd7b0e8-e4e1-487a-96d6-88f70c14128c?lang=en)
+* [Leave a review for ABP Commercial & **get 1500.0¥**](https://reviews.capterra.com/products/new/8b6f9777-574b-42c6-9902-c045b585ab7c/f6ee291b-f48f-4821-ac3a-606b7e6af005?lang=en)
 
 # GetApp Category Leader
 
 GetApp's Category Leader ranks top software products based on end-user ratings in five key areas(ease of use, value for money, functionality, customer support, and likelihood to recommend). The scores are derived from user reviews, public data, and vendor information, normalized for recency and volume, and then scaled to a maximum of 20 points per dimension, culminating in a total maximum score of 100. 
 
-* App Building: https://www.getapp.com/development-tools-software/application-builder/category-leaders/
-* Application Development: https://www.getapp.com/development-tools-software/application-development/category-leaders/
+[ABP Commercial on GetApp](https://www.getapp.com/development-tools-software/a/abp-commercial/reviews/) is in 2 categories, App Building and Application Development; and was the 2023 Category Leader in both of them!
 
-** App Development: 431 products
+## ABP Commercial as 2023 App Building Category Leader
+This year was the first time of ABP Commercial on GetApp to win this award in App Building Category. In App Building Category, GetApp examined 199 products and selected ABP Commercial as one of the [2023 Category Leaders of App Building](https://www.getapp.com/development-tools-software/application-builder/category-leaders/) and selected in the 8th row out of 15 top-ranking products.
 
-** App Building: 199 products
+Here is how ABP Commercial ranked in the 5 categories of GetApp when selecting the App Building Category's Leaders:
+- Ease of Use: **16 out of 20**
+- Value for Money: **16 out of 20**
+- Functionality: **17 out of 20**
+- Customer Support: **17 out of 20**
+- Likelihood to Recommend: **16 out of 20**
+In total: **83 out of 100**
+
+## ABP Commercial as 2023 Application Development Category Leader
+This year, it was the second year in a row [ABP Commercial won the Category Leader of Application Development](https://www.getapp.com/development-tools-software/application-development/category-leaders/). In Application Development Category, in 2023, the number of products GetApp examined went up to 436 whereas it was 368 in 2022. ABP Commercial's row in these products went down to 14th row in the 15 top-ranking products whereas it was 8th the previous year.
+
+Here is how ABP Commercial ranked in the 5 categories of GetApp when selecting the Application Development Category's Leaders:
+- Ease of Use: **16 out of 20**
+- Value for Money: **15 out of 20**
+- Functionality: **16 out of 20**
+- Customer Support: **16 out of 20**
+- Likelihood to Recommend: **15 out of 20**
+In total: **82 out of 100**
 
 
 # Software Advice Front Runners
