@@ -45,22 +45,40 @@ In total: **82 out of 100**
 
 # Software Advice Front Runners
 
-Software Advice's FrontRunners methodology, updated in May 2020, evaluates software products using user reviews to score them on Usability and Customer Satisfaction. These scores are based on data from user reviews, public sources, and vendor information. To qualify, products must have at least 20 unique reviews within 24 months, demonstrating a broad appeal and functionality, and cater to North American users. The Usability score combines user ratings on functionality and ease-of-use, each accounting for half of the score. Customer Satisfaction is assessed through value for money, likelihood to recommend, and customer support ratings, with the latter having a higher weight. All ratings are converted to a standard 5-point scale, normalized for recency and volume, and then scaled up to 100. Products must meet a minimum score threshold on both axes, with a cap on the number of FrontRunners to ensure only the top 10 to 25 products per category are included, and no product scoring below 60 in either dimension is featured. The final FrontRunners graphic positions products based on their scores in these two key dimensions.
+Software Advice's FrontRunners are selected by evaluating the software products using objective user reviews to score them on Usability and Customer Satisfaction. These scores are based on data from user reviews, public sources, and vendor information. The Usability score combines user ratings on functionality(50%) and ease-of-use(50%). Customer Satisfaction is assessed through value for money(25%), likelihood to recommend(25%), and customer support ratings(50%). All ratings are converted to a standard 5-point scale, normalized for recency and volume, and then scaled up to 100. Products that meet a minimum score threshold on both axes, with a cap on the number of FrontRunners to ensure only the top 10 to 25 products per category are included, and no product scoring below 60 in either dimension is featured. The final FrontRunners graphic positions products based on their scores in these two key dimensions.
 
-* App Building: https://www.softwareadvice.com/app-building/#frontrunners
+In 2023, ABP Commercial won 2 awards in both categories it exists; App Building and Application Development Categories' Front Runners according to the evaluation criterias mentioned above. Let's have a look at where ABP Commercial is located in the graphic of per categories.
+
+## ABP Commercial as 2023 Front Runner in App Building
+[ABP Commercial on Software Advice in App Building Category](https://www.softwareadvice.com/app-building/abp-commercial-profile/) is one of the Front Runners in App Building Category among 186 products evaluated in this category of Software Advice.
+You can check out the full [App Building Category's Front Runners](https://www.softwareadvice.com/app-building/#frontrunners)' graphic below and locate ABP Commercial in it.
+
 https://software-advice.imgix.net/managed/frontrunner/fr_grid_app_building.png
-* App Development Software: https://www.softwareadvice.com/app-development/#frontrunners
+
+## ABP Commercial as 2023 Front Runner in App Development Software
+[ABP Commercial on Software Advice in App Development Category](https://www.softwareadvice.com/app-development/abp-commercial-profile/) is one of the Front Runners in App Development Category among 390 products evaluated in this category of Software Advice.
+
+You can check out the full [App Development Category's Front Runners](https://www.softwareadvice.com/app-development/#frontrunners)' graphic below and locate ABP Commercial in it.
+
 https://software-advice.imgix.net/managed/frontrunner/fr_grid_application_development.png?fit=max&w=650&fm=png&auto=format
 
-# Capterra Shortlist 
-Capterra's methodology for the 2023 App Building Software Shortlist involved analyzing 332 products, filtering out those lacking in functionality and user reviews, and then ranking the remaining software based on popularity and user ratings. ABP Commercial was distinguished with a high ratings score of 49 out of 50, indicating exceptional user satisfaction, and a respectable popularity score of 19 out of 50, reflecting its solid web presence and search trend interest. This inclusion on the Shortlist highlights ABP Commercial's prominence and user approval in a competitive app building software market.
-App Building Software: https://www.capterra.com/app-building-software/shortlist/
+# Capterra Shortlist
 
-- We were awarded with 2023 App Building Software Shortlist.
-- They analyzed all 332 products in their App Building Software category.
-- They eliminated products that didn't meet their requirements for functionality and reviews.
-- They took the highest-rated and most popular products and plotted them on the grid.
-You can access the grid at: https://www.capterra.com/app-building-software/shortlist/
-- ABP Commercial's popularity score was 19 on a scale of 1 to 50. (Relative popularity of software based on web search trends and products web presence.)
-- ABP Commercial's ratings score was 49 on a scale of 1 to 50. (Relative score of the software based on ratings given by users on Capterra, normalized for number and recency of reviews.)
+Capterra evaluates top software products using a blend of user ratings and popularity including up to 25 products per category for their Shortlists. Those products are selected based on the user reviews and a proprietary scoring system that rates products on a scale of 1 to 50 in User Ratings and Popularity. The Shortlist is intended to offer a comprehensive view of products' recent popularity and ratings, aiding buyers in making informed decisions.
 
+2023 was the first year for ABP Commercial to win an award in Capterra and it was in App Building Software Category.
+
+## ABP Commercial as 2023 App Building Software Shortlist Products.
+
+[ABP Commercial on Capterra](https://www.capterra.com/app-building-software/shortlist/) is one of the App Building Software Shortlist in between 17 other highest-ranking products. Capterra's methodology for the 2023 App Building Software Shortlist involved analyzing 332 products, filtering out those lacking in functionality and user reviews, and then ranking the remaining software based on popularity and user ratings.
+ABP Commercial got 49 out of 50, indicating exceptional user satisfaction, and a respectable popularity score of 19 out of 50, reflecting its solid web presence and search trend interest.
+
+You can access the full grid from [here](https://www.capterra.com/app-building-software/shortlist/).
+
+Thank you all ABP Community members for this recognition we got this year. We look forward to continuing to provide top-notch software and support to businesses everywhere!
+
+Don't forget to leave your review and redeem your code from Gartner to help us further, if you like to!
+* [Leave a review for ABP Commercial & **get $10 gift card**](https://reviews.capterra.com/products/new/8b6f9777-574b-42c6-9902-c045b585ab7c/07a1ac5a-4658-4552-a87d-5f4e1089fee9?lang=en)
+* [Leave a review for ABP Commercial & **get £10 gift card**](https://reviews.capterra.com/products/new/8b6f9777-574b-42c6-9902-c045b585ab7c/30b5d7f2-d0c5-4b38-b968-2dc5601aa196?lang=en)
+* [Leave a review for ABP Commercial & **get €10 gift card**](https://reviews.capterra.com/products/new/8b6f9777-574b-42c6-9902-c045b585ab7c/8fd7b0e8-e4e1-487a-96d6-88f70c14128c?lang=en)
+* [Leave a review for ABP Commercial & **get 1500.0¥**](https://reviews.capterra.com/products/new/8b6f9777-574b-42c6-9902-c045b585ab7c/f6ee291b-f48f-4821-ac3a-606b7e6af005?lang=en)
