@@ -53,14 +53,14 @@ In 2023, ABP Commercial won 2 awards in both categories it exists; App Building 
 [ABP Commercial on Software Advice in App Building Category](https://www.softwareadvice.com/app-building/abp-commercial-profile/) is one of the Front Runners in App Building Category among 186 products evaluated in this category of Software Advice.
 You can check out the full [App Building Category's Front Runners](https://www.softwareadvice.com/app-building/#frontrunners)' graphic below and locate ABP Commercial in it.
 
-https://software-advice.imgix.net/managed/frontrunner/fr_grid_app_building.png
+<img src="https://software-advice.imgix.net/managed/frontrunner/fr_grid_app_building.png">
 
 ## ABP Commercial as 2023 Front Runner in App Development Software
 [ABP Commercial on Software Advice in App Development Category](https://www.softwareadvice.com/app-development/abp-commercial-profile/) is one of the Front Runners in App Development Category among 390 products evaluated in this category of Software Advice.
 
 You can check out the full [App Development Category's Front Runners](https://www.softwareadvice.com/app-development/#frontrunners)' graphic below and locate ABP Commercial in it.
 
-https://software-advice.imgix.net/managed/frontrunner/fr_grid_application_development.png?fit=max&w=650&fm=png&auto=format
+<img src="https://software-advice.imgix.net/managed/frontrunner/fr_grid_application_development.png?fit=max&w=650&fm=png&auto=format">
 
 # Capterra Shortlist
 
