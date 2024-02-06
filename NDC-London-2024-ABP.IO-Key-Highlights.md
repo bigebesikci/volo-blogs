@@ -1,28 +1,29 @@
 As ABP.IO team, we just got back from our amazing trip with [NDC London](https://ndclondon.com/) and would love to share a recap of this amazing conference. It was the 5th time in a row we were a proud sponsor of NDC London. It, now, basically feels like home spending 3 days in Queen Elizabeth Centre II with NDC London for the [ABP.IO](https://abp.io/) team to be there.
 
-![booth.png](/api/blogging/files/www/3a108c22c9c7b27c9d007bc5817adaee.png)
+[INSERT BOOTH IMAGE]
 
 This year, we were there with Lead Developers of ABP.IO Platform [Halil Ibrahim Kalkan](https://community.abp.io/members/hikalkan) and [Alper Ebicoglu](https://community.abp.io/members/alper) -as usual- and also ABP.IO Core team members, [Engincan Veske](https://community.abp.io/Members/EngincanV) and [Bige Besikci Yaman](https://community.abp.io/Members/bigebesikci).
 
-![team.png](/api/blogging/files/www/3a108c28bb8b56956ba1e9486162c9fb.png)
+[INSERT BOOTH IMAGE WITH ATTENDEES]
 
 These 3 days with the team was all about chatting and having fun with amazing attendees and speakers. We met with talented and passionate software developers and introduced the [open source ABP Framework](https://github.com/abpframework/abp) - web application framework built on ASP.NET Core and [ABP Commercial](https://commercial.abp.io/) - the complete web application development platform built on open source ABP Framework to them. We also had a chance to reunite with some of the regulars as us and talked about the latest updates on .NET and ABP.IO Platform.
 
-![attendees1.png](/api/blogging/files/www/3a108c291c1653e33f4b475ed8543b39.png)
+[INSERT IMAGE WITH ATTENDEES]
 
-![attendees2.png](/api/blogging/files/www/3a108c297595810b3386fbb639eb1ed9.png)
+[INSERT IMAGE WITH ATTENDEES]
 
-![attendees3.png](/api/blogging/files/www/3a108c29c57e24188931b73d4c13bcff.png)
+[INSERT IMAGE WITH ATTENDEES]
 
 It wasn't all about learning but always fun and games with all the attendees. We love to show our hospitality with hand-made chocolates; enjoy the small-but-useful gadgets as well as the beneficial items such as books and of course the funny stickers. This year was no different.
 We had delicious hand-made chocolates we brought all the way to London as always and didn't forget to enjoy them as we go through the days!
 Attendees got to test their .NET knowledge with an easy quiz and left our booth with their TWS earphones.
 As for the benefits and efficiency, we gave [Implementing DDD e-book](https://abp.io/books/implementing-domain-driven-design)'s paperback written by the Lead Architecture of ABP Framework - Halil Ibrahim Kalkan to the .NET developers. Because, what better gift than a book?
 
-![booth2.png](/api/blogging/files/www/3a108c3322a8172d22fdceb1c931bfb7.png)
+[INSERT BOOTH IMAGE WITH SWAGS]
 
 As usual, we draw a raffle on the last day for Meta Quest 2 prize. Congratulations to our winner, Christian Wattengard.
-![raffle winner.png](/api/blogging/files/www/3a108fa3b8c97de8532fba8646e48f0b.png)
+
+[INSERT RAFFLE WINNER IMAGE]
 
 NDC London was - once again - full of insightful talks with 110 sessions and 100+ speakers. You can find some highlights from those talks below.
 
@@ -56,17 +57,17 @@ They took a close look at the RSA algorithm, a key piece of technology that keep
 #### "How GitHub delivers GitHub using GitHub" by [April Edwards](https://twitter.com/TheAprilEdwards)
 She shared how Microsoft's engineering teams have become more agile, going from releasing new versions every three years to every three weeks. She also explained how GitHub uses its own tools to build and improve itself. In her talk, she compared the agile journeys of Microsoft and GitHub, showing how they deliver software quickly and efficiently.
 
-![talks1.png](/api/blogging/files/www/3a108c2ef17a8549b7bdb49926421e64.png)
+[INSERT TALK IMAGE]
 
-![talks2.png](/api/blogging/files/www/3a108c2f49f707344bf790f8a7b8f248.png)
+[INSERT TALK IMAGE]
 
-![talks3.png](/api/blogging/files/www/3a108c2f94607809e9ea4da93c4b58fb.png)
+[INSERT TALK IMAGE]
 
 ## The fun part of the NDC London
 The expo area on the third floor of Queen Elizabeth II Centre was also full of fun in all aspects. There were a variety of delicious food and the place hosted a yet another great party with delicious cocktails. We didn't forget to have fun and had our bellies full at all times!
 
-![food.png](/api/blogging/files/www/3a108c3d26924d5ccd093c79e351e2cf.png)
-![cocktail.png](/api/blogging/files/www/3a108f97f94047a43a52511f8b4c1802.png)
+[INSERT FOOD IMAGE]
+[INSERT COCKTAIL IMAGE]
 
 
 Thank you all for visiting our booth and the amazing chat you cherished our 3 days with.
